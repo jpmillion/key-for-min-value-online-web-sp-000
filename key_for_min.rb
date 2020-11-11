@@ -3,5 +3,6 @@
 
 def key_for_min_value(name_hash)
   name_hash.select do |key, value|
-    
+    min = 0 
+    if value 
 end
